@@ -1,12 +1,22 @@
-# React + Vite
+#Project description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Netflix Clone web application built with React + Vite, providing a smooth and responsive UI similar to Netflix. The project integrates Firebase Authentication for secure login/signup and TMDB (The Movie Database) API to fetch trending, popular, and category-based movies.
 
-Currently, two official plugins are available:
+Error and success notifications are displayed using React Toastify, ensuring a better user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Features
 
-## Expanding the ESLint configuration
+🔑 Authentication: Signup, login, and logout using Firebase Authentication
+🎥 Movies & TV Shows: Dynamic data fetched from TMDB API
+📱 Responsive UI: Optimized for mobile, tablet, and desktop
+⚡ React + Vite for fast development and build performance
+🔔 Toast Notifications for success/error feedback (React Toastify)
+🎨 Netflix-like design and smooth navigation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#Tech Stack
+
+Frontend: React + Vite
+Authentication & Database: Firebase
+API: TMDB (The Movie Database) API
+Styling: CSS (custom Netflix-like UI)
+Notifications: React Toastify
