@@ -20,3 +20,7 @@ Authentication & Database: Firebase
 API: TMDB (The Movie Database) API
 Styling: CSS (custom Netflix-like UI)
 Notifications: React Toastify
+
+#Live Demo 
+
+[Click here to view the project](https://netflix-clone-chi-pink.vercel.app/)
